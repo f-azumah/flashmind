@@ -36,3 +36,6 @@ App runs on `http://localhost:3000`
 | GET | `/api/cards` | Get all flashcards |
 | POST | `/api/cards` | Create a flashcard |
 | DELETE | `/api/cards/{id}` | Delete a flashcard |
+
+Note: currently uses in-memory storage —
+a database integration is planned for a future update.
